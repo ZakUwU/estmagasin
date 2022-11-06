@@ -17,7 +17,7 @@
     "ejs": "^1.0.0",
     "express": "^4.14.0",
     "guid": "0.0.12",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-live-server": "0.0.30",
     "jquery": "^3.1.1",
     "mongoose": "^4.7.6",
